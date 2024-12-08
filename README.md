@@ -78,22 +78,6 @@
 <br>
 <div align="left">
        
- ### 🔵 𝙇𝙊𝙉𝙂 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙋𝘼𝙉𝙀𝙇𝙎 𝘼𝙉𝘿 𝘼𝙇𝙇 𝙋𝙇𝘼𝙏𝙁𝙊𝙍𝙈𝙎
-   
-</div>
-   
-<div align="left">
-    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀1️⃣</h3>
-    <a href="https://prince-new-base64-pair.onrender.com">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render">
-    </a>
-    <br>
-    <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝙌𝙍 𝘾𝙊𝘿𝙀2️⃣</h3>
-    <a href="https://prince-session-base64.onrender.com">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render">
-    </a>
-</div>
-
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -107,27 +91,7 @@
     <a href="https://gd-sdeploy.vercel.app/">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://repl.it/github/DASTAGHIR/PRINCEMD">
-        <img height="30" title="Replit" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit">
-    </a>
-    <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDASTAGHIR%2FPRINCEMD">
-        <img height="30" title="Render" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render">
-    </a>
-</div>
-
-<div align="center">
-    
-### 𝙍𝙐𝙉 𝙊𝙉 𝙆𝙊𝙔𝙀𝘽
-
-<div align="center">
-    <p align="center">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[OWNERS]=923092668108%3B%E2%9D%A3%EF%B8%8FDASTAGEER&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTOREAD]=false&env[VIEWONCE]=false&env[STATUS_REPLY]=false&env[STATUSLIKES]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[BOT_NAME]=PRINCE-MD&env[PACK_NAME]=Princebot%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[DL_MSG]=_📥--------+*DOWNLOADED+SUCCESSFULLY*+--------📥_&env[STATUSVIEW]=false&env[Status_Saver]=false&env[REJECTSCALLS]=false&env[AutoReaction]=false&env[SESSION_ID]=">
-            <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
-        </a>
-    </p>
-</div>
-
-    
+       
 <div align="left">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
