@@ -19,21 +19,21 @@
 
 
 <div align="center">
-    <a href="https://github.com/DASTAGHIR/PRINCEMD">
+    <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1">
         <img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    <a href="https://github.com/DASTAGHIR?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/DASTAGHIR?label=Followers&style=social">
+    <a href="https://github.com/Panhwar110?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/Panhwar110?label=Followers&style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/stargazers/">
-        <img title="Stars" src="https://img.shields.io/github/stars/DASTAGHIR/PRINCEMD?style=social">
+    <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/Panhwar110/X-BYTE-LITE-V1?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/network/members">
-        <img title="Fork" src="https://img.shields.io/github/forks/DASTAGHIR/PRINCEMD?style=social">
+    <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/Panhwar110/X-BYTE-LITE-V1?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/watchers">
-        <img title="Watching" src="https://img.shields.io/github/watchers/DASTAGHIR/PRINCEMD?label=Watching&style=social">
+    <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/Panhwar110/X-BYTE-LITE-V1?label=Watching&style=social">
     </a>
 </div>
 
