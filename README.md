@@ -1,10 +1,10 @@
-![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+PRINCE+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
+![X-BYTE-LITE-V1](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+PRINCE+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="PRINCE" 
+            alt="X-BYTE" 
             width="700" 
             height="400" 
             src="https://i.imgur.com/iI086tX.jpeg" 
