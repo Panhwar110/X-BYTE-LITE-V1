@@ -10,18 +10,18 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 
 ***`FORK REPO`***
 
-  <a href="https://github.com/Panhwar110/Panhwar-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
+  <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK X-BYTE-LITE-V1" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `PANHWAR MD WEBPAGE`
+### <br> `X-BYTE-LITE-V1 WEBPAGE`
 <p align="left">
 <a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `PANHWAR MD SESSION`
+### <br> `X-BYTE-LITE-V1 SESSION`
 <p align="left">
 <a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
 <p/>
