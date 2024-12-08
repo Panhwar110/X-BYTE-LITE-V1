@@ -48,7 +48,7 @@
     
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀1️⃣</h3>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Panhwar110/X-BYTE-LITE-V1.git">
+    <a href="https://short-pair-for-heorku.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -74,7 +74,7 @@
 ### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
 </div>
 <div align="center">
-    <a href="https://gd-sdeploy.vercel.app/">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Panhwar110/X-BYTE-LITE-V1.git">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
        
