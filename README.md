@@ -1,4 +1,4 @@
-![X-BYTE-LITE-V1](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+PRINCE+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
+![X-BYTE-LITE-V1](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+EVERYONE+👋🏻;😍+WELCOME+TO+X-BYTE-LITE-V1+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
@@ -43,20 +43,6 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
-
-<div align="left">
-    
-   ### 🟢🟣🔵 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀📳
-   <br>
-    <br>
-</div>
-<br>
-
-### 💻𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗜𝗡𝗖𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
-[![DATABASE_URL](https://img.shields.io/badge/DATABASE_URL-blue?style=for-the-badge&logo=github)](https://github.com/DASTAGHIR/PRINCE-DATABASE-URL)
-
-<br>
-    <br>
 
 <div align="left">
     
