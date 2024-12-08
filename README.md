@@ -1,9 +1,9 @@
-<h1> PANHWAR-MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
+<h1> X-BYTE-LITE-V1 <img src="https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg" width="50"> </h1>
 
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg?v=4&backgroundColor=%23ecf0f1&github=Hyhamza&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -33,12 +33,6 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `SUPPORT CHANNEL`
-<p align="left">
-<a href="https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ### <h1>OUR TEAM</h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <details>
@@ -46,13 +40,7 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 
 <div align="center">
   
-| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
-|----|
-| [ UMAR REHMAN ](https://github.com/Um4r719) |
-| _*Collaborators*_
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br>
-  
+
 | [![PROxANSAR](https://github.com/Panhwar110.png?lenght=50width=50)](https://github.com/Panhwar110) |
 |----|
 | [ PROxANSAR ](https://github.com/Panhwar110) |
@@ -60,60 +48,3 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
- [![SILENTLOVER40](https://github.com/SILENTLOVER40.png?lenght=50width=50)](https://github.com/SILENTLOVER40) |
-|----|
-| [ SILENTLOVER40 ](https://github.com/SILENTLOVER40) |
-|  _*Collaborators*_ |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-  [![Awais-star-a11y](https://github.com/Awais-star-a11y.png?lenght=50width=50)](https://github.com/Awais-star-a11y) |
-|----|
-| [ Awais-star-a11y ](https://github.com/Awais-star-a11y) |
-|  _*Collaborators*_ |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-### <br>   ❖ FREE_DEPLOY_WORKFLOWS ❖
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
------------
-
-
-
-
-</details>
