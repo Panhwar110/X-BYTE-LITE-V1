@@ -13,14 +13,14 @@
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊  𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝘼𝙉𝙎𝘼𝙍-𝙋𝘼𝙉𝙃𝙒𝘼𝙍 𝙏𝙊  𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 </div>
 
 
 
 <div align="center">
     <a href="https://github.com/Panhwar110/X-BYTE-LITE-V1">
-        <img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
+        <img title="Author" src="https://img.shields.io/badge/𝑿%20𝑩𝒀𝑻𝑬-𝑳𝑰𝑻𝑬-𝑽1%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
     <a href="https://github.com/Panhwar110?tab=followers">
@@ -37,7 +37,7 @@
     </a>
 </div>
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝐗-𝐁𝐘𝐓𝐄-𝐋𝐈𝐓𝐄-𝐕1-𝑩𝑶𝑻</h1>
 
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
